@@ -1,0 +1,24 @@
+{
+  "name": "env-enums",
+  "version": "0.1.0",
+  "description": "Enum values for web/nodejs environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meikidd/env-enums.git"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "enums"
+  ],
+  "author": "meikidd <meikidd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meikidd/env-enums/issues"
+  },
+  "homepage": "https://github.com/meikidd/env-enums#readme"
+}
