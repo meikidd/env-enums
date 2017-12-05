@@ -1,3 +1,3 @@
 # Env Enums
 
-Enum values for web/nodejs environment.
+Enum values for browser and node.js environment.
